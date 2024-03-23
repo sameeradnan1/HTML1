@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First WWW project</title>
+</head>
+<body>
+    <h1>My Introduction</h1>
+    <h2>Mohammad Sameer Adnan</h2>
+    <img src="  D:\pictures\sameer.jpg" width="200" height="300">
+    <p>Contact me <a href="https://www.instagram.com/" target="_blank">here</a></p><hr>
+ 
+    <h3>Description:</h3>
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, expedita. Molestias dolorum autem dolor dicta, placeat quibusdam obcaecati, neque error mollitia quidem vitae fugiat! Enim laboriosam vitae provident dicta! Temporibus mollitia tenetur soluta illo excepturi doloribus dolorem voluptatibus quidem ipsum, dolor est labore, facere, recusandae quis culpa placeat. Ipsa iusto iste hic cupiditate laudantium, voluptatibus autem facilis. Eius impedit deleniti fugiat ipsum quisquam quibusdam nemo sit placeat non sapiente officiis optio qui, illum voluptatum, blanditiis rem tempore ad praesentium quasi est ea laborum perspiciatis mollitia necessitatibus? Fugit ea omnis eum consectetur nam porro ipsum eaque enim velit. Reprehenderit, consectetur iusto provident dolor sunt exercitationem? Reiciendis expedita sint autem quaerat deserunt iure magnam nemo, dignissimos hic! Voluptatum, laborum! Tempora voluptatibus accusamus ea adipisci? Quam quidem repellat repellendus, numquam quibusdam doloremque dolores sit cupiditate reprehenderit maiores debitis incidunt dignissimos vero expedita placeat accusantium minus enim eveniet doloribus ipsa, perspiciatis et! Quo, ad pariatur consequatur, inventore ratione voluptatum praesentium a hic harum qui dignissimos magnam reprehenderit dolorem consequuntur? Amet repudiandae natus optio mollitia praesentium minima et adipisci enim unde porro nihil ab eius iusto corrupti, nostrum non dolore voluptatum reiciendis accusantium laudantium doloribus suscipit quasi temporibus numquam? Harum perferendis numquam ad itaque alias?
+</body>
+</html>
