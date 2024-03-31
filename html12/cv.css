@@ -1,0 +1,53 @@
+body{
+    font-family:"Montserrat" , 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    background-color:black;
+}
+.heads{
+    width:120vh;
+    height:35px;
+    background-color:#222;
+    color:white;
+    display:flex;
+    align-items: center;
+    padding:2px 300px 2px 300px;   
+    
+    
+}
+a{
+    margin-left: 120px;
+}
+.hello{
+    margin-top:25px;
+    text-align: center;
+}
+img{
+    width:500px;
+    height:10%;
+}
+.lines{
+    display:flex;
+    align-items:last baseline;
+}
+.line{
+    width:35%;
+    margin-left:0px;
+}
+.headers{
+    width:70vh;
+    height:60px;
+    background-color:#222;
+    padding:3px;
+    display:flex;
+    text-indent:5%;
+}
+.links{
+    width:99%;
+    height:200px;
+    background:#222;
+    color:white;
+    text-indent:30%;
+    padding:5px;
+
+    
+}
