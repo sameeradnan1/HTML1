@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>student form</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <h1 class="title">Student Registration Form</h1>
+    <form action="main.py">
+        <div>
+            <label for="fn"><b>First Name:</b></label>
+            <input type="text" id="fn" name="first name" placeholder="Enter your first name">
+            <label for="ln"><b>Last Name:</b></label>
+            <input type="text" id="ln" name="last name" placeholder="Enter your last name">
+        </div><br><br>
+        <div>
+            <label for="em"><b>Email:</b></label>
+            <input type="email" id="em" name="password" placeholder="Enter email">
+            <label for="key"><b>Password:</b></label>
+            <input type="password" id="key" name="password" placeholder="Enter password">
+        </div><br><br>
+        <div>
+            <label for="dob"><b>Date of birth</b></label>
+            <input type="date" id="dob" name="dateofbirth">
+        </div><br><br>
+        <div>
+            <label><b>Choose the Gender:</b></label>
+            <input type="radio" name="gender" id="m" value="male"><label for="m">Male</label>
+            <input type="radio" name="gender" id="f" value="female"><label for="f">female</label>
+        </div>
+    </form>
+</body>
+</html>

@@ -51,7 +51,7 @@ p{
     color:white;
     text-align: center;
 }
-.sign-box input[type="use"]{
+.sign-box input[type="uses"]{
     width:100%;
     padding:15px;
     border:none;
@@ -65,7 +65,7 @@ p{
     padding:30%;
     color:white;
 }
-.rem{
+.re{
     color:white;
 }
 h4{
